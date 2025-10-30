@@ -1,0 +1,23 @@
+{
+  "name": "ffp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uniquecoder-287/FFp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uniquecoder-287/FFp/issues"
+  },
+  "homepage": "https://github.com/Uniquecoder-287/FFp#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
